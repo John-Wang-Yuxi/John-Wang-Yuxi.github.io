@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-About this site
+My name is Yuxi "John" Wang.

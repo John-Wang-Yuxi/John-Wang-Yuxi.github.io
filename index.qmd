@@ -4,4 +4,4 @@ title: "John-Wang-Yuxi"
 
 Welcome to my Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+More information about myself and my projects will be coming soon...
